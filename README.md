@@ -26,7 +26,10 @@ A responsive front-end for an E-Learning platform designed using **HTML**, **CSS
 
 📸 Screenshots
 Course List Page	Video Lesson Page
-<image src="1.png" alt="login preview" width="100%" /> <image src="2.png" alt="chat preview" width="100%" />
+<image src="1.png" alt="login preview" width="100%" /> 
+<br>
+<br>
+<image src="2.png" alt="chat preview" width="100%" />
 	
 ---
 
