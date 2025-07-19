@@ -25,6 +25,8 @@ A responsive front-end for an E-Learning platform designed using **HTML**, **CSS
 ---
 
 📸 Screenshots
+
+<br>
 Landing Page
 <image src="1.png" alt="login preview" width="100%" /> 
 <br>
