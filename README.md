@@ -41,7 +41,7 @@ Course Page
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/e-learning-frontend.git
+git clone https://github.com/M-Naga-Shankar/Codtech-Elearning-Platform.git
 
 2. Navigate to the Project Folder
 
