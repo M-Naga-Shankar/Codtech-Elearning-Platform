@@ -1,4 +1,12 @@
 # Codtech-Elearning-Platform
+
+*COMPANY*    : CODTECH IT SOLUTIONS <BR>
+*NAME*       : M NAGA SHANKAR<br>
+*INTERN ID*  : CT08DN1962<br>
+*DOMAIN*     : FRONT END DEVELOPMENT<br>
+*DURATION*  : 8 WEEKS<br>
+*MENTOR*     : NEELA SANTOSH<br>
+
 A responsive front-end for an E-Learning platform designed using **HTML**, **CSS**, **Bootstrap**, and **JavaScript**. The interface includes features like **course listing**, **progress tracking**, and **embedded video players** to deliver a seamless and modern learning experience.
 
 ---
